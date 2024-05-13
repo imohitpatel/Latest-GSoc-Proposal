@@ -309,7 +309,18 @@ Projects proposed by mentors are listed at our [ideas list][IL].
 
 You are welcome to propose your own project. If you wish to do so, please
 contact the organization you want to work with before you start writing your
-proposal and explain your idea to them. If you choose to propose your own
-project idea you will need to find a mentor for the project. **Proposals without
+proposal and explain your idea to them. If you choose to propose your own project idea you will need to find a mentor for the project. **Proposals without
 a mentor will not be considered.**
+
+___
+## Contribution guide
+* Fork the project
+* Add your  GSoC Project Title
+* Add accepted GSoC Proposal link with the format `[link](<proposal link>)`
+* Add GSoC Project link with the format `[link](<project link>)`
+
+NB: 
+* Please ensure that shared links are publicly accesible
+* Please remove personal information from your proposals if you don't want to share them
+* To prospective students, this is only a pointer and proposal formats for your organization or mentors could vary, please ask questions to your organization/mentors on how your proposals can be formatted/Structured
 
